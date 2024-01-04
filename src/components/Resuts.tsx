@@ -8,7 +8,7 @@ type Props = {
 
  
 
-export const Results = ({questions, answers}: Props) => {
+export const Results = ({questions, answers}: Props) => { 
 
     return (
         <div>

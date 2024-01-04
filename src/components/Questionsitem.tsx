@@ -19,7 +19,7 @@ export const QuestionsItem = ({question, count, onAnswer}: Props) => {
             setTimeout(() => {
                 onAnswer(key);
                 setSelect(null);
-            }, 1500);
+            }, 1000);
 
         }
     }

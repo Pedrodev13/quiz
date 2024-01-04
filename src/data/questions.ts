@@ -41,4 +41,14 @@ export const questions: Question[] = [
         ],
         answer: 0
     },
+    {
+        question: 'O que é chuva de fogo?',
+        options: [
+            'São os petencostais',
+            'Água do chuveiro no nordeste',
+            'Vulcão em erupção',
+            'Chuva de granizo'
+        ],
+        answer: 1
+    },
 ];
